@@ -4,7 +4,7 @@
 
 ## Ссылка
 
-https://algorithms-delta.vercel.app/recursion
+https://algorithms-delta.vercel.app/
 
 ## Строка
 
